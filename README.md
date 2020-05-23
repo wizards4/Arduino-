@@ -1,12 +1,3 @@
-/*
- * Author: Jean Noel Lefebvre - www.ootsidebox.fr - march 31th 2020
- * 
- * */
-
-//https://learn.adafruit.com/adafruit-led-backpack/0-54-alphanumeric-9b21a470-83ad-459c-af02-209d8d82c462
-//http://wiki.seeedstudio.com/Grove-Infrared_Temperature_Sensor/
-//http://wiki.seeedstudio.com/Grove-Light_Sensor/
-//https://github.com/thomasfredericks/Metro-Arduino-Wiring
 
 #include <Wire.h>
 #include "Adafruit_LEDBackpack.h"
